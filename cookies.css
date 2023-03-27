@@ -1,0 +1,46 @@
+* {box-sizing: border-box; }
+
+body {
+	margin: 0;
+	background-color: #deb5e2;
+	}
+	
+header {background-color: #631b6d;
+		color: #ffffff;
+		text-align: center;
+		padding: 0.5em;
+		margin: 0;
+		}
+
+#container {width: 100%;
+			margin: auto;}
+	
+form {width: 65%;
+	height: auto;
+	margin: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: left;
+	padding-top: 2em;
+	padding-bottom: 3em;
+	background-color: #d3d3d3;
+	margin-top: 2em;
+	margin-bottom: 3em;
+	}
+	
+
+	
+#pform {
+	text-align: right;
+	padding-right: 5em;
+}
+	
+#btn {background-color: #2f2fad;
+	color: #ffffff;
+	padding: 7px;
+	font-size: 20px;
+	}
+	
+#output {padding-left: 3em;
+		padding-top: 2em;
+}
